@@ -1,0 +1,28 @@
+git init nome-do-projeto
+
+cd nome-do-projeto
+
+work directory
+área de armazenamento(store area)  git add
+
+git add
+
+git commit - mensagem
+
+
+git pull
+git push
+
+só monitora depois do primeiro commit -m "nome do pacote"
+
+terminal bash
+
+
+git log - histórico de commits.
+gik tbm mostra.
+
+
+1 - criar repositorio na web
+2 - clonar local com o endereço.
+3 - fluxo base. criar, add, commit.
+4 - git pull / git push
